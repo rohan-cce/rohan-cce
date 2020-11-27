@@ -20,3 +20,6 @@ Hi , I'm [Rohan j](https://www.linkedin.com/in/rohan-j-ba489b19b/) , Currently ,
 - 💬 Ask me about anything, I am happy to help
 - 📫 How to reach me: [@Rohan j](https://www.linkedin.com/in/rohan-j-ba489b19b/)
 
+**Languages and Tools:**  
+<code><img height="20" src="https://raw.githubusercontent.com/rhoit/mode-icons/dump/icons/css.png"></code>
+<code><img height="20" src=""></code>
