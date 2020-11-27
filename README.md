@@ -45,8 +45,8 @@ Hi , I'm [Rohan j](https://www.linkedin.com/in/rohan-j-ba489b19b/) , Currently ,
 
 
 <br/>
--📈 My GitHub Stats
+<h3>-📈 My GitHub Stats</h3>
 <a href="https://github.com/rohan-cce">
-  <img align="left" height="150em" src="https://github-readme-stats.vercel.app/api?username=rohan-cce&theme=buefy&show_icons=true" />
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohan-cce&theme=buefy&layout=compact" />
+  <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api?username=rohan-cce&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohan-cce&theme=buefy&layout=compact" />
 </a>
