@@ -11,7 +11,7 @@
 <br />
 
 Hi , I'm [Rohan j](https://www.linkedin.com/in/rohan-j-ba489b19b/) , Currently , I'm pursuing B.E👩‍💻 in Computer and Communication Engineering from Sri Eshwar College of Engineering ,Coimbatore
- <img align="right" alt="GIF" src="https://github.com/rohan-cce/rohan-cce/blob/master/files/website.gif" width="500" height="320" />
+ <img align="right" alt="GIF" src="https://github.com/rohan-cce/rohan-cce/blob/master/files/website.gif" width="400" height="320" />
 **Talking about Personal Stuffs:**
 - 🔭 I’m currently working on HTML5,CSS3
 - 🌱 I’m currently learning Python,Data Structures
