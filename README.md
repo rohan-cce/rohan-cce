@@ -6,7 +6,6 @@
   <img align="left" alt="Rohan's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/github.svg" />
 </a>
 
-
 ![](https://visitor-badge.glitch.me/badge?page_id=rohan-cce.rohan-cce)
 <br />
 
