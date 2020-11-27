@@ -32,6 +32,7 @@ Hi , I'm [Rohan j](https://www.linkedin.com/in/rohan-j-ba489b19b/) , Currently ,
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+  ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C)
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
