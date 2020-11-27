@@ -1,4 +1,10 @@
 ### Hi there 👋
+<a href="https://www.linkedin.com/in/rohan-j-ba489b19b/">
+  <img align="left" alt="Rohan's LinkedIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://github.com/rohan-cce">
+  <img align="left" alt="Rohan's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/github.svg" />
+</a>
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=rohan-cce.rohan-cce)
 <!--
 **rohan-cce/rohan-cce** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
