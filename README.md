@@ -1,5 +1,5 @@
 ### Hi there 👋
-![](https://visitor-badge.glitch.me/badge?page_id=rohan-cce.rohan-cce)
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=rohan-cce.rohan-cce)
 <!--
 **rohan-cce/rohan-cce** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
