@@ -49,5 +49,6 @@ Hi , I'm [Rohan j](https://www.linkedin.com/in/rohan-j-ba489b19b/) , Currently ,
 <a href="https://github.com/rohan-cce">
   <img   src="https://github-readme-stats.vercel.app/api?username=rohan-cce&theme=buefy&show_icons=true&count_private=true" />
   <img  height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohan-cce&theme=buefy&layout=compact" />
-  [![rohan](https://github-readme-stats.vercel.app/api/wakatime?username=rohan-cce)](https://github.com/anuraghazra/github-readme-stats)
+  
 </a>
+[![rohan](https://github-readme-stats.vercel.app/api/wakatime?username=rohan-cce)](https://github.com/anuraghazra/github-readme-stats)
