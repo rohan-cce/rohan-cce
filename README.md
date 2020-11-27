@@ -9,7 +9,7 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=rohan-cce.rohan-cce)
 <br />
 
-Hi ,I'm [Rohan j](https://www.linkedin.com/in/rohan-j-ba489b19b/) ,Currently ,I'm pursuing B.E👩‍💻 in Computer and Communication Engineering from Sri Eshwar College of Engineering ,Coimbatore.
+Hi ,I'm [Rohan j](https://www.linkedin.com/in/rohan-j-ba489b19b/) ,Currently ,<strong>I'm pursuing 👩‍💻 B.E in Computer and Communication Engineering</strong> from Sri Eshwar College of Engineering ,Coimbatore.
  <img align="right" alt="GIF" src="https://github.com/rohan-cce/rohan-cce/blob/master/files/website.gif" width="300" height="300" />
 
 **Talking about Personal Stuffs:**
