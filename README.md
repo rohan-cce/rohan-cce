@@ -5,7 +5,6 @@
 <a href="https://github.com/rohan-cce">
   <img align="left" alt="Rohan's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/github.svg" />
 </a>
-<head><link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@master/devicon.min.css"></head>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=rohan-cce.rohan-cce)
 <br />
@@ -31,4 +30,3 @@ Hi , I'm [Rohan j](https://www.linkedin.com/in/rohan-j-ba489b19b/) , Currently ,
 <code><img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" /></code>
 <code><img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" /></code>
 <code><img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" /></code>
-<body><i class="devicon-postgresql-plain colored"></i></body>
