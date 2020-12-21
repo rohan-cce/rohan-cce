@@ -67,4 +67,4 @@ Hi ,I'm [Rohan j](https://www.linkedin.com/in/rohan-j-ba489b19b/) ,Currently ,<s
 
 </a>
 
-![GitHub metrics](https://github.com/rohan-cce/rohan-cce/blob/master/github-metrics.svg)
+
