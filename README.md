@@ -66,4 +66,4 @@ Hi ,I'm [Rohan j](https://www.linkedin.com/in/rohan-j-ba489b19b/) ,Currently ,<s
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohan-cce&theme=jolly&layout=compact" />
 
 </a>
-![GitHub metrics](https://github.com/my-github-user/my-github-user/blob/master/github-metrics.svg)
+![GitHub metrics](https://github.com/rohan-cce/rohan-cce/blob/master/github-metrics.svg)
