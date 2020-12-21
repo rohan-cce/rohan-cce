@@ -48,7 +48,7 @@ Hi ,I'm [Rohan j](https://www.linkedin.com/in/rohan-j-ba489b19b/) ,Currently ,<s
 
 - **📈 Github Trophies**
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=monokai&row=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=monokai&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
 <br/>
 
 
