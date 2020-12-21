@@ -52,7 +52,6 @@ Hi ,I'm [Rohan j](https://www.linkedin.com/in/rohan-j-ba489b19b/) ,Currently ,<s
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=rohan-cce)](https://github.com/ryo-ma/github-profile-trophy)<br>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=spandey1296&show_icons=true&count_private=true)
 <h3>-📈 My GitHub Stats</h3>
 <a href="https://github.com/rohan-cce">
   <img  src="https://github-readme-stats.vercel.app/api?username=rohan-cce&theme=jolly&show_icons=true&count_private=true" />
