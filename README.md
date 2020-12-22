@@ -44,6 +44,7 @@ Hi ,I'm [Rohan j](https://www.linkedin.com/in/rohan-j-ba489b19b/) ,Currently ,<s
   ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
 - 💻 &nbsp;
   ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=Linux)
+  ![Windows](https://img.shields.io/badge/-Windows-333333?style=flat&logo=Windows)
 
 
 <br/>
