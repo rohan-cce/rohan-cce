@@ -5,7 +5,10 @@
 <a href="https://github.com/rohan-cce">
   <img align="left" alt="Rohan's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/github.svg" />
 </a>
-![Followers](https://img.shields.io/github/followers/rohan-cce?label=Follow&style=social)
+<a href="https://github.com/rohan-cce">
+  <img align="left" alt="Rohan's Twitter" width="80px" src="https://img.shields.io/github/followers/rohan-cce?label=Follow&style=social" />
+</a>
+
 
 ![](https://visitor-badge.glitch.me/badge?page_id=rohan-cce.rohan-cce)
 <br />
