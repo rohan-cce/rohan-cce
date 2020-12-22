@@ -5,6 +5,10 @@
 <a href="https://github.com/rohan-cce">
   <img align="left" alt="Rohan's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/github.svg" />
 </a>
+<a href="https://twitter.com/RohanJ54824388">
+  <img align="left" alt="Rohan's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<br>
 <a href="https://github.com/rohan-cce">
   <img align="left" alt="Rohan's Twitter" width="80px" src="https://img.shields.io/github/followers/rohan-cce?label=Follow&style=social" />
 </a>
