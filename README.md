@@ -8,6 +8,8 @@
 <a href="https://twitter.com/RohanJ54824388">
   <img align="left" alt="Rohan's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/twitter.svg"/>
 </a>
+<a href="https://rohanjcce.netlify.app/">
+  <img align="left" alt="Rohan's Portfolio" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/netlify.svg"/>
 <a href="https://github.com/rohan-cce">
   <img align="left" alt="Rohan's Github Followers" width="80px" src="https://img.shields.io/github/followers/rohan-cce?label=Follow&style=social" />
 </a>
