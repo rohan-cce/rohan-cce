@@ -71,7 +71,7 @@ Hi ,I'm [Rohan j](https://www.linkedin.com/in/rohan-j-ba489b19b/) ,Currently ,<s
 
 - **📈 Github Streak**
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=rohan-cce)  
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=rohan-cce&theme=tokyonight)  
 
 <h3>-📈 My GitHub Stats</h3>
 <a href="https://github.com/rohan-cce">
