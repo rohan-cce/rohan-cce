@@ -66,7 +66,8 @@ Hi ,I'm [Rohan j](https://www.linkedin.com/in/rohan-j-ba489b19b/) ,Currently ,<s
 
 
 - **📈 Github Metrics**
-![Metrics](https://metrics.lecoq.io/rohan-cce?template=terminal&followup=1&languages=1&isocalendar=1&pagespeed=1&posts=1&projects=1&pagespeed.detailed=true&pagespeed.screenshot=true&posts.limit=4&posts.source=dev.to&isocalendar.duration=full-year&projects.limit=4&config.timezone=Asia%2FKolkata)
+
+![Github Metrics](https://metrics.lecoq.io/rohan-cce?template=terminal&followup=1&languages=1&isocalendar=1&pagespeed=1&posts=1&projects=1&pagespeed.detailed=true&pagespeed.screenshot=true&posts.limit=4&posts.source=dev.to&isocalendar.duration=full-year&projects.limit=4&config.timezone=Asia%2FKolkata)
 
 
 - **📈 Github Streak**
