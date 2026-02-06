@@ -18,7 +18,7 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=rohan-cce.rohan-cce)
 <br />
 
-Hi ,I'm [Rohan j](https://www.linkedin.com/in/rohan-j-ba489b19b/) ,Currently ,<strong>I'm pursuing 👩‍💻 B.E in Computer and Communication Engineering</strong> from Sri Eshwar College of Engineering ,Coimbatore.
+Hi ,I'm [Rohan j](https://www.linkedin.com/in/rohan-j-ba489b19b/) ,A software engineer with a strong interest in Java, backend systems, and open-source development. I enjoy understanding how things work under the hood
  <img align="right" alt="GIF" src="https://github.com/rohan-cce/rohan-cce/blob/master/files/website.gif" width="300" height="300" />
 
 **Talking about Personal Stuffs:**
